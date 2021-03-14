@@ -1,6 +1,9 @@
 # CDCAPI-Table
 
-This project pulls data from CDC API and manipulates it to get specific data. Coded in react
+This project pulls data from CDC API and manipulates it to get specific data.
+
+# `Programming Languages`
+React (Javascript, HTML, CSS)
 
 ## `Description`
 
