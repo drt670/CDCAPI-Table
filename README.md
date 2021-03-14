@@ -7,7 +7,7 @@ React (Javascript, HTML, CSS)
 
 ## `Description`
 
-The data taken from CDC API displays the most recent submission of each state. It displays for each state, the state name, submission date, total death, and percentage of deaths per state within the country. A search filter is also implemented to search for a specific state. The table is sorted in descending order by each state.
+The data taken from CDC API displays the most recent submissions of each state. It displays for each state, the state name, submission date, total death, and percentage of deaths per state within the country. A search filter is also implemented to search for a specific state. The table is sorted in descending order by each state.
 
 ### `npm start`
 
